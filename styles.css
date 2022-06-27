@@ -1,0 +1,15 @@
+* {
+    background-color: linen;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: "Smooch", sans-serif;
+}
+
+a {
+    font-size: 20px;
+    font-family: "Yellowtail", "Helvetica";
+    color: black;
+}
